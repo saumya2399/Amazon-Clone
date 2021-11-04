@@ -1,0 +1,49 @@
+.container_account{
+  padding-left: 150px;
+  padding-top: 20px;
+  margin-top: auto;
+}
+.container_account a{
+  text-decoration: none;
+
+
+}
+.account_container {
+                width:540px;
+                margin:50px;
+                display:table;
+                align: centre;
+                margin-left: 200px;
+                margin-top: 0px;
+
+            }
+.account_container .account_container_row {
+                display:table;
+                height: 100%;
+                width: 100%;
+                margin-bottom: 20px;
+
+
+            }
+.account_container .account_container_cell {
+                display:table-cell;
+                height: 100%;
+
+                padding: 50px;
+
+            }
+.account_container .account_container_cell.cell1{
+      text-align:justify;
+      border-style:ridge;
+      border-color: inherit;
+            }
+.account_container .account_container_cell.cell2{
+  border-style:ridge;
+  border-color: inherit;
+                text-align:justify
+            }
+.account_container .account_container_cell.cell3{
+  border-style:ridge;
+  border-color: inherit;
+                text-align:justify;
+            }
